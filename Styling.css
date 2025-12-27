@@ -1,0 +1,146 @@
+.logoimg {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin-right: 100px;
+    position: fixed;
+    justify-content: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #4b2d1f;
+    font-weight: 900;
+    font-size: 20px;
+    margin-bottom: 180px;
+    margin-top: 500px;
+}
+.center{
+    text-align:center;
+}
+.address{
+     text-align:center;
+}
+.top{
+    text-align:center;
+}
+
+.firstimg {
+    height: 800px;
+    width: 100%;
+}
+
+h5 {
+    color: #877be4;
+    line-height: 60px;
+}
+
+.address {
+    background-color: rgba(244, 176, 4, 0.806);
+    color: rgb(17, 57, 97);
+    line-height: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.top {
+    color: #800020;
+    line-height: 35px;
+}
+
+.offers {
+    line-height: 20px;
+}
+
+.style {
+    color: rgba(244, 176, 4, 0.806);
+}
+
+.dis {
+    color: green;
+}
+
+.abt {
+    color: grey;
+}
+
+.form {
+    padding: 25px;
+    width: 350px;
+    border-radius: 12px;
+
+}
+
+.form label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.form input,
+.form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 15px;
+    outline: none;
+}
+
+.form input:focus,
+.form textarea:focus {
+    border-color: #4287f5;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background: #4287f5;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #2e6ad6;
+}
+
+#output {
+    margin-top: 20px;
+    background: white;
+    padding: 15px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.fcontac {
+    width: 100%;
+}
+.loginpage {
+    width: 80%;
+    background-color: #fff2e6; 
+    padding: 40px;
+    border-radius: 20px;        
+    border: 1px solid #ccc;
+
+    margin: 150px auto;     
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
